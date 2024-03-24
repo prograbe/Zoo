@@ -1,0 +1,17 @@
+.topo {
+    background-color: rgb(82, 193, 117);
+}
+
+.animal {
+    width: 33%;
+    float: left;
+    padding: 10px;
+}
+
+.hitoria {
+    float: left;
+}
+
+img {
+    width: 100%;
+}
