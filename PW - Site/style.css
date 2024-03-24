@@ -3,12 +3,20 @@
 }
 
 .animal {
-    width: 33%;
+    width: 30%;
     float: left;
     padding: 10px;
 }
 
-.hitoria {
+.historia {
+    float: left;
+}
+
+h2 {
+    background: url(cueio.png);
+}
+
+.footer {
     float: left;
 }
 
