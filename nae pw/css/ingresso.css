@@ -1,0 +1,87 @@
+/*Geral*/
+
+* { margin: 0;
+    padding: 0; }
+
+body {
+    background-color: #ececec;
+}
+
+/*Topo*/
+
+
+.topo {
+    background-color: #276759;
+    text-align: center;
+    padding: 15px;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 90px;
+    padding-left: 6px;
+    padding-bottom: 15px;
+}
+
+.topo a {
+    color: #ffffff;
+    padding: 8px 12px;
+}
+
+.topo a:hover {
+    background-color: #C8EB71;
+    color: #ffffff;
+}
+
+img {
+    width: 1600px;
+    height: 120px;
+    margin-top: 10px;
+    border: black;
+}
+
+.bio {
+    color: #60aa5f;
+}
+
+.tam {
+    font-size: 30px;
+}
+
+/*Login*/
+
+.login {
+    width: 800px;
+    height: 350px;
+    margin: auto;
+    background-color: #C8EB71;
+    text-align: center;
+}
+
+h2 {
+    padding-top: 5px;
+    color: #276759;
+}
+
+.login input {
+    margin: 10px;
+    width: 500px;
+    padding: 10px;
+}
+
+.login input {
+    margin: 10px;
+    width: 300px;
+}
+
+/*Footer*/
+
+.footer {
+    float: left;
+    text-align: center;
+    background-color: #8c857b;
+    color: #ffffff;
+    width: 781px;
+    padding: 10px;
+    margin-left: 395px;
+}
